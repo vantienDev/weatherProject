@@ -1,0 +1,27 @@
+:root {
+  --header-color: #35c1c7;
+  --main-bgcolor: #368ca9;
+  --nav-info-color: #024359;
+  --weather-box: #4b98b2;
+  --main-text-color: #fafafa;
+  --primary-bg-color: #f53d2d;
+  --primary-text-color: #ffc107;
+}
+
+html {
+  font-family: "Poppins", sans-serif;
+  font-family: "Source Sans Pro", sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-size: 1rem;
+}
+
+strong {
+  color: var(--primary-text-color);
+  margin-right: 5px;
+}
+
+.row {
+  justify-content: center;
+}

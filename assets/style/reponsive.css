@@ -1,0 +1,85 @@
+/* Small devices (landscape phones, 576px and up) */
+@media (max-width: 576px) {
+  .sun-container {
+    display: none;
+  }
+
+  .nav__container {
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+
+  #check-my-place {
+    width: 100%;
+  }
+
+  .weather-information {
+    width: 100%;
+  }
+  .weather__today-btn,
+  .weather__hours-btn,
+  .weather__forecast-btn {
+    width: 100%;
+    margin-bottom: 10px;
+    margin-top: 10px;
+  }
+  
+  .weather__map {
+    width: 100%;
+  }
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (max-width: 768px) {
+  .sun-container {
+    display: none;
+  }
+
+  #nav-news {
+    display: none;
+  }
+
+  #list-provinces {
+    display: none;
+  }
+
+  #check-my-place {
+    width: 100%;
+  }
+
+  .nav__container {
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (max-width: 992px) {
+  .sun-container {
+    justify-content: space-between;
+  }
+
+  .sun-box {
+    width: 48%;
+  }
+
+  #list-provinces {
+    display: none;
+  }
+
+  #check-my-place {
+    width: 100%;
+  }
+
+  .nav__container {
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+}
+
+/* X-Large devices (large desktops, 1200px and up) */
+@media (max-width: 1200px) {
+  #list-provinces {
+    display: none;
+  }
+}

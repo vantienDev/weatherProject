@@ -1,0 +1,39 @@
+.main {
+  background-color: var(--main-bgcolor);
+  color: var(--main-text-color);
+}
+
+.weather-container {
+  background-color: var(--weather-box);
+}
+
+th,
+td {
+  border-bottom: 1px solid #fff;
+  font-weight: bold;
+  color: var(--main-text-color);
+}
+
+.sun-container {
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  text-align: center;
+}
+
+.sun-box {
+  width: 25%;
+  height: 100%;
+  border: 3px solid var(--nav-info-color);
+  border-radius: 5px;
+}
+
+.the-sun {
+  width: 100%;
+  height: 140px;
+  border-bottom: 3px solid var(--nav-info-color);
+}
+
+#footer {
+  background-color: var(--nav-info-color) ;
+}

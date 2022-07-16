@@ -1,0 +1,119 @@
+.nav {
+  background-color: var(--main-bgcolor);
+  justify-content: space-between;
+  align-items: center;
+  height: 100%;
+}
+
+.nav__container {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  height: 74px;
+}
+
+/* search__box */
+.search__box {
+  display: flex;
+  justify-content: center;
+  align-items: stretch;
+}
+
+.select__provinces {
+  border: 0;
+  border-radius: 2px 0px 0px 2px;
+}
+
+.btn-secondary {
+  border-radius: 0;
+}
+
+.nav-infor {
+  height: 36px;
+}
+
+.nav-infor-box,
+.nav-infor-items,
+.nav-infor-link {
+  height: inherit;
+}
+
+.nav-infor-link {
+  font-size: 1.2rem;
+  font-weight: 700;
+}
+
+.weather__in-places {
+  display: flex;
+  justify-content: space-around;
+  list-style-type: none;
+}
+
+.weather__in-places a {
+  text-decoration: none;
+  color: var(--main-text-color);
+  font-size: 1.2rem;
+  font-weight: 600;
+}
+
+/* Phần Thông Tin */
+
+.nav__weather {
+  background-color: var(--nav-info-color);
+  color: var(--main-text-color);
+}
+.weather__infor-box {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  background-color: var(--nav-info-color);
+  margin: 0 !important;
+}
+
+.weather-information {
+  background-color: var(--main-primary-bgcolor);
+  height: 100%;
+  margin-right: 15px;
+}
+
+.weather__information-today {
+  height: 100%;
+}
+
+.weather__today-btn,
+.weather__hours-btn,
+.weather__forecast-btn {
+  width: 100px;
+  height: 100%;
+  font-size: 1.2rem;
+  color: inherit;
+  text-align: left;
+  border: 0;
+  padding: 0;
+  background-color: inherit;
+}
+
+.weather__map {
+  height: 40px;
+  margin-right: 15px;
+}
+
+.weather__map-btn {
+  height: 100%;
+  width: 100%;
+  border: 0;
+  border-radius: 0;
+  font-size: 1.1rem;
+  font-weight: 600;
+}
+
+.current__localtion {
+  height: 100%;
+  padding: 10px;
+  line-height: 20px;
+}
+
+#list-provinces {
+  justify-content: flex-end;
+}
+

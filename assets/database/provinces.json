@@ -1,0 +1,418 @@
+[
+  {
+    "index": 20,
+    "name": "Bắc Giang",
+    "lat": 21.333,
+    "lng": 106.333
+  },
+  {
+    "index": 14,
+    "name": "Bắc Kạn",
+    "lat": 22.167,
+    "lng": 105.833
+  },
+  {
+    "index": 10,
+    "name": "Cao Bằng",
+    "lat": 22.667,
+    "lng": 106
+  },
+  {
+    "index": 9,
+    "name": "Hà Giang",
+    "lat": 22.75,
+    "lng": 105
+  },
+  {
+    "index": 11,
+    "name": "Lạng Sơn",
+    "lat": 21.75,
+    "lng": 106.5
+  },
+  {
+    "index": 17,
+    "name": "Phú Thọ",
+    "lat": 21.333,
+    "lng": 105.167
+  },
+  {
+    "index": 21,
+    "name": "Quảng Ninh",
+    "lat": 21.25,
+    "lng": 107.333
+  },
+  {
+    "index": 15,
+    "name": "Thái Nguyên",
+    "lat": 21.667,
+    "lng": 105.833
+  },
+  {
+    "index": 13,
+    "name": "Tuyên Quang",
+    "lat": 22.117,
+    "lng": 105.25
+  },
+  {
+    "index": 8,
+    "name": "Lào Cai",
+    "lat": 22.333,
+    "lng": 104
+  },
+  {
+    "index": 12,
+    "name": "Yên Bái",
+    "lat": 21.5,
+    "lng": 104.667
+  },
+  {
+    "index": 6,
+    "name": "Điện Biên",
+    "lat": 21.383,
+    "lng": 103.017
+  },
+  {
+    "index": 22,
+    "name": "Hòa Bình",
+    "lat": 20.333,
+    "lng": 105.25
+  },
+  {
+    "index": 7,
+    "name": "Lai Châu",
+    "lat": 22,
+    "lng": 103
+  },
+  {
+    "index": 16,
+    "name": "Sơn La",
+    "lat": 21.167,
+    "lng": 104
+  },
+  {
+    "index": 19,
+    "name": "Bắc Ninh",
+    "lat": 21.083,
+    "lng": 106.167
+  },
+  {
+    "index": 26,
+    "name": "Hà Nam",
+    "lat": 20.583,
+    "lng": 106
+  },
+  {
+    "index": 24,
+    "name": "Hải Dương",
+    "lat": 20.917,
+    "lng": 106.333
+  },
+  {
+    "index": 23,
+    "name": "Hưng Yên",
+    "lat": 20.833,
+    "lng": 106.083
+  },
+  {
+    "index": 27,
+    "name": "Nam Định",
+    "lat": 20.25,
+    "lng": 106.25
+  },
+  {
+    "index": 28,
+    "name": "Ninh Bình",
+    "lat": 20.25,
+    "lng": 105.833
+  },
+  {
+    "index": 25,
+    "name": "Thái Bình",
+    "lat": 20.5,
+    "lng": 106.333
+  },
+  {
+    "index": 18,
+    "name": "Vĩnh Phúc",
+    "lat": 21.3,
+    "lng": 105.6
+  },
+  {
+    "index": 1,
+    "name": "Hà Nội",
+    "lat": 21.028333,
+    "lng": 105.853333
+  },
+  {
+    "index": 3,
+    "name": "Hải Phòng",
+    "lat": 20.865139,
+    "lng": 106.683833
+  },
+  {
+    "index": 31,
+    "name": "Hà Tĩnh",
+    "lat": 18.333,
+    "lng": 105.9
+  },
+  {
+    "index": 69,
+    "name": "Hà Tây",
+    "lat": 20.833333,
+    "lng": 105.9
+  },
+  {
+    "index": 30,
+    "name": "Nghệ An",
+    "lat": 19.333,
+    "lng": 104.833
+  },
+  {
+    "index": 32,
+    "name": "Quảng Bình",
+    "lat": 17.5,
+    "lng": 106.333
+  },
+  {
+    "index": 33,
+    "name": "Quảng Trị",
+    "lat": 16.75,
+    "lng": 107
+  },
+  {
+    "index": 29,
+    "name": "Thanh Hóa",
+    "lat": 20,
+    "lng": 105.5
+  },
+  {
+    "index": 34,
+    "name": "Thừa Thiên-Huế",
+    "lat": 16.333,
+    "lng": 107.583
+  },
+  {
+    "index": 41,
+    "name": "Đắk Lắk",
+    "lat": 12.667,
+    "lng": 108.05
+  },
+  {
+    "index": 42,
+    "name": "Đắk Nông",
+    "lat": 11.983,
+    "lng": 107.7
+  },
+  {
+    "index": 38,
+    "name": "Gia Lai",
+    "lat": 13.75,
+    "lng": 108.25
+  },
+  {
+    "index": 37,
+    "name": "Kon Tum",
+    "lat": 14.75,
+    "lng": 107.917
+  },
+  {
+    "index": 44,
+    "name": "Lâm Đồng",
+    "lat": 11.95,
+    "lng": 108.433
+  },
+  {
+    "index": 39,
+    "name": "Bình Định",
+    "lat": 14.167,
+    "lng": 109
+  },
+  {
+    "index": 46,
+    "name": "Bình Thuận",
+    "lat": 10.933,
+    "lng": 108.1
+  },
+  {
+    "index": 43,
+    "name": "Khánh Hòa",
+    "lat": 12.25,
+    "lng": 109.2
+  },
+  {
+    "index": 64,
+    "name": "Nha Trang",
+    "lat": 12.25,
+    "lng": 109.183333
+  },
+  {
+    "index": 65,
+    "name": "Đà Lạt",
+    "lat": 11.940381,
+    "lng": 108.436866
+  },
+  {
+    "index": 45,
+    "name": "Ninh Thuận",
+    "lat": 11.75,
+    "lng": 108.833
+  },
+  {
+    "index": 40,
+    "name": "Phú Yên",
+    "lat": 13.167,
+    "lng": 109.167
+  },
+  {
+    "index": 35,
+    "name": "Quảng Nam",
+    "lat": 15.58333,
+    "lng": 107.91667
+  },
+  {
+    "index": 36,
+    "name": "Quảng Ngãi",
+    "lat": 15,
+    "lng": 108.667
+  },
+  {
+    "index": 4,
+    "name": "Đà Nẵng",
+    "lat": 16.06944,
+    "lng": 108.20972
+  },
+  {
+    "index": 51,
+    "name": "Bà Rịa-Vũng Tàu",
+    "lat": 10.583,
+    "lng": 107.25
+  },
+  {
+    "index": 68,
+    "name": "Vũng Tàu",
+    "lat": 10.383333,
+    "lng": 107.116667
+  },
+
+  {
+    "index": 49,
+    "name": "Bình Dương",
+    "lat": 11.167,
+    "lng": 106.667
+  },
+  {
+    "index": 47,
+    "name": "Bình Phước",
+    "lat": 11.75,
+    "lng": 106.917
+  },
+  {
+    "index": 50,
+    "name": "Đồng Nai",
+    "lat": 11.117,
+    "lng": 107.183
+  },
+  {
+    "index": 48,
+    "name": "Tây Ninh",
+    "lat": 11.333,
+    "lng": 106.167
+  },
+  {
+    "index": 2,
+    "name": "Hồ Chí Minh",
+    "lat": 10.8,
+    "lng": 106.65
+  },
+  {
+    "index": 56,
+    "name": "An Giang",
+    "lat": 10.5,
+    "lng": 105.167
+  },
+  {
+    "index": 62,
+    "name": "Bạc Liêu",
+    "lat": 9.25,
+    "lng": 105.75
+  },
+  {
+    "index": 55,
+    "name": "Bến Tre",
+    "lat": 10.167,
+    "lng": 106.5
+  },
+  {
+    "index": 63,
+    "name": "Cà Mau",
+    "lat": 9.083,
+    "lng": 105.083
+  },
+
+  {
+    "index": 53,
+    "name": "Đồng Tháp",
+    "lat": 10.667,
+    "lng": 105.667
+  },
+  {
+    "index": 59,
+    "name": "Hậu Giang",
+    "lat": 9.783,
+    "lng": 105.467
+  },
+  {
+    "index": 58,
+    "name": "Kiên Giang",
+    "lat": 10,
+    "lng": 105.167
+  },
+  {
+    "index": 52,
+    "name": "Long An",
+    "lat": 10.667,
+    "lng": 106.167
+  },
+  {
+    "index": 61,
+    "name": "Sóc Trăng",
+    "lat": 9.667,
+    "lng": 105.833
+  },
+  {
+    "index": 54,
+    "name": "Tiền Giang",
+    "lat": 10.417,
+    "lng": 106.167
+  },
+  {
+    "index": 60,
+    "name": "Trà Vinh",
+    "lat": 9.833,
+    "lng": 106.25
+  },
+  {
+    "index": 57,
+    "name": "Vĩnh Long",
+    "lat": 10.167,
+    "lng": 106
+  },
+  {
+    "index": 5,
+    "name": "Cần Thơ",
+    "lat": 10.033,
+    "lng": 105.783
+  },
+  {
+    "index": 66,
+    "name": "Phú Quốc",
+    "lat": 10.233333,
+    "lng": 103.95
+  },
+  {
+    "index": 67,
+    "name": "Sapa",
+    "lat": 22.335556,
+    "lng": 103.841944
+  }
+]
