@@ -30,7 +30,6 @@ function main() {
     $(initialProvince).removeAttr("selected"); // Xóa attr "selected" của tỉnh thành ban đầu
     $(getOption).attr("selected", "selected"); // Thêm attr "selected" vào tỉnh thành mới
 
-    console.log(newProvince);
     requestAPI.getCoordinatesProvince(false, newProvince);
   });
 
@@ -62,11 +61,3 @@ function main() {
 }
 
 main();
-
-const test = "10";
-
-if (isNaN(test)) {
-  console.log("not Num");
-} else {
-  console.log("is Num");
-}

@@ -156,7 +156,6 @@ export const renderUI = {
         `;
     });
 
-    console.log(forecastWeatherHours);
     $("#forecast-hours")[0].innerHTML = forecastWeatherHours.join(" ");
   },
 };

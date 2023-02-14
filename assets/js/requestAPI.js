@@ -50,34 +50,8 @@ export const requestAPI = {
         return res.json();
       })
       .then((res) => {
-        console.log(res);
         renderUI.renderForeCast(name, res);
         renderUI.renderForeCastHours(name, res);
-      });
-  },
-
-  getLocaltionFromIpAddress(ipAddress) {
-    fetch(`http://ip-api.com/json/${ipAddress}`)
-      .then((res) => {
-        return res.json();
-      })
-      .then((res) => {
-        const cityName = res.city;
-        const latLocaltion = res.lat;
-        const lonLocaltion = res.lon;
-
-        this.getWeather(cityName, latLocaltion, lonLocaltion);
-      });
-  },
-
-  getIpAddress() {
-    // Lấy địa chỉ Ip của người dùng
-    fetch("https://api.ipify.org?format=json")
-      .then((res) => {
-        return res.json();
-      })
-      .then((res) => {
-        this.getLocaltionFromIpAddress(res.ip);
       });
   },
 };
