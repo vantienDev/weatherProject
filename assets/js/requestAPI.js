@@ -12,7 +12,7 @@ export const requestAPI = {
 
     $.ajax({
       type: "GET",
-      url: "../assets/database/provinces.json",
+      url: "./assets/database/provinces.json",
       dataType: "json",
 
       success: (datas) => {
