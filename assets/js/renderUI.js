@@ -50,7 +50,7 @@ export const renderUI = {
   
   <div class="sun-container mt-3">
     <div class="sun-box me-2 px-1">
-      <img class="the-sun px-5" src="./assets/imgs/sunrise.png" alt="">
+      <img class="the-sun px-5" src="\./assets/imgs/sunrise.png" alt="">
       <span>
         <p class="text-start py-2 fs-5"><strong class="fw-bolder">Giờ mặt trời mọc:</strong> ${getDateTime.getUnixTimestamp(
           res.sys.sunrise
@@ -59,7 +59,7 @@ export const renderUI = {
     </div>
 
     <div class="sun-box ms-2 px-1">
-      <img class="the-sun px-5" src="./assets/imgs/sunset.webp" alt="">
+      <img class="the-sun px-5" src="\./assets/imgs/sunset.webp" alt="">
       <span>
         <p class="text-start py-2 fs-5"><strong class="fw-bolder">Giờ mặt trời lặn:</strong> ${getDateTime.getUnixTimestamp(
           res.sys.sunset
